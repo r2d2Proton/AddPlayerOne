@@ -1,0 +1,106 @@
+# Visual Studio and Visual Studio Code
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+
+# Visual Studio Code extensions
+.vscode/extensions/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Local NuGet packages
+.nuget/packages/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# MAUI-specific
+bin/
+obj/
+.maui/
+
+# .NET
+.dotnet/
+
+# iOS Specific
+.DS_Store
+xcuserdata/
+*.xcworkspace/
+DerivedData/
+
+# Android Specific
+.gradle/
+local.properties
+*.jks
+*.keystore
+
+# Test Results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+
+# Backup & temp files
+*.bak
+*.tmp
+*.backup
+Thumbs.db
+
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Desktop.ini
+
+# User secrets
+secrets.json
+appsettings.*.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package manager lock files (optional - include if desired)
+# packages.lock.json
